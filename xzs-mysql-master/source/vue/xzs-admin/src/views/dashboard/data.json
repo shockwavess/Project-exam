@@ -1,0 +1,9 @@
+[
+  { "Name": "张三", "Math": 85, "English": 78, "Science": 92, "Class": "A", "Grade": 10 },
+  { "Name": "李四", "Math": 72, "English": 88, "Science": 76, "Class": "B", "Grade": 9 },
+  { "Name": "王五", "Math": 90, "English": 82, "Science": 85, "Class": "A", "Grade": 10 },
+  { "Name": "赵六", "Math": 68, "English": 75, "Science": 80, "Class": "C", "Grade": 9 },
+  { "Name": "钱七", "Math": 95, "English": 90, "Science": 88, "Class": "A", "Grade": 11 },
+  { "Name": "孙八", "Math": 60, "English": 65, "Science": 70, "Class": "C", "Grade": 9 },
+  { "Name": "周九", "Math": 78, "English": 85, "Science": 82, "Class": "B", "Grade": 10 }
+]
