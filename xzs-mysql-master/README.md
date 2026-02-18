@@ -17,41 +17,6 @@
 
 </div>
 
-# 学之思开源考试系统 - Mysql版
-
-## 项目介绍
-
-学之思开源考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。支持web端和微信小程序，能覆盖到pc机和手机等设备。
-支持多种部署方式：集成部署、前后端分离部署、docker部署。
-
-### 演示地址
-
-* 官网：[https://www.mindskip.net](https://www.mindskip.net)
-* 学之思开源考试系统：[https://www.mindskip.net/xzs.html](https://www.mindskip.net/xzs.html)
-* 维多多培训考试系统：[https://www.mindskip.net/wdd.html](https://www.mindskip.net/wdd.html)
-* 思多多智能考试系统：[https://www.mindskip.net/sdd.html](https://www.mindskip.net/sdd.html)
-
-### 文档视频教程
-
-* 数据库脚本下载地址：[https://www.mindskip.net:999](https://www.mindskip.net:999)
-* 文档教程：[https://www.mindskip.net:999](https://www.mindskip.net:999)
-* 视频教程：[https://space.bilibili.com/1389892305](https://space.bilibili.com/1389892305)
-* QQ交流群17：`624825080`
-* 商务QQ：`2732007709`
-* 商务微信：`whmindskip`
-* 商务邮箱：`mindskip@qq.com`
-
-### 学之思仓库版本地址
-
-* gitee - postgresql ：[https://gitee.com/mindskip/uexam](https://gitee.com/mindskip/uexam)
-* gitee - mysql ：[https://gitee.com/mindskip/xzs-mysql](https://gitee.com/mindskip/xzs-mysql)
-* github - postgresql ：[https://github.com/mindskip/xzs](https://github.com/mindskip/xzs)
-* github - mysql ：[https://github.com/mindskip/xzs-mysql](https://github.com/mindskip/xzs-mysql)
-* gitcode - postgresql ：[https://gitcode.com/mindskip/xzs](https://gitcode.com/mindskip/xzs)
-* gitcode - mysql ：[https://gitcode.com/mindskip/xzs-mysql](https://gitcode.com/mindskip/xzs-mysql)
-
-
-
 ### 学生系统功能
 
 |  模块   | 介绍  |
