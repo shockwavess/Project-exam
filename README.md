@@ -53,5 +53,7 @@
 | 个人信息  | 显示学生个人资料  |  
 | 更新信息  | 修改个人资料、头像  |  
 | 个人动态  | 显示用户最近的个人动态  |  
-| 消息中心  | 用于接收管理员发送的消息  |  
+| 消息中心  | 用于接收管理员发送的消息  |
+
+### 实现效果
 ![image](https://github.com/shockwavess/Project-exam/blob/master/exam-mysql-master/pictures/image.png)
