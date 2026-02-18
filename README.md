@@ -57,3 +57,5 @@
 
 ### 实现效果
 ![image](https://github.com/shockwavess/Project-exam/blob/master/exam-mysql-master/pictures/image.png)
+![image](https://github.com/shockwavess/Project-exam/blob/master/exam-mysql-master/pictures/image1.png)
+![image](https://github.com/shockwavess/Project-exam/blob/master/exam-mysql-master/pictures/image2.png)
